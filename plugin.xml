@@ -18,6 +18,10 @@
 			<param name="android-package" value="tomloprod.IMEIGetter"/>
 		</feature>
     </config-file>
+    
+    <config-file target="AndroidManifest.xml" parent="/*">
+    		<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    </config-file>
 
     <source-file src="src/android/IMEIGetter.java" target-dir="src/tomloprod/imeigetter"/>
   
