@@ -1,4 +1,4 @@
-# cordova-plugin-imeigetter
+# cordova-plugin-imeigetter  [![License](https://img.shields.io/github/license/tomloprod/cordova-plugin-imeigetter.svg)](http://www.opensource.org/licenses/mit-license.php)
 
 **IMEIGetter** is a cordova plugin to get the IMEI number in android devices.
 
