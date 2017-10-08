@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-imeigetter",
+  "version": "1.0.0",
+  "description": "IMEIGetter is a cordova plugin to get the IMEI number in android devices",
+  "cordova": {
+    "id": "cordova-plugin-imeigetter",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomloprod/cordova-plugin-imeigetter"
+  },
+  "keywords": [
+    "cordova",
+    "ionic",
+    "minimize",
+	"android"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tomloprod",
+  "license": "MIT"
+}
